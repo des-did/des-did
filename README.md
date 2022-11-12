@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ***Privacy Policy: All information shared is not sold and strictly confidential.***
+
+Website: www.mindwell.com
