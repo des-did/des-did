@@ -2,7 +2,7 @@
 - 👀 I’m interested in assisting others through web development, wellness, healthy lifestyles and mindsets.
 - 🌱 I’m currently learning html, css, javascript, python, writing self-help stuff and involved in wellness.
 - 💞️ I’m looking to collaborate on projects friendly to beginning developers, or those seeking to find more balance in lives.
-- 📫 
+- 📫 natsde at yahoo dot c_m
 
 <!---
 des-did/des-did is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
