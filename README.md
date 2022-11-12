@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @des-did
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript, python
-- 💞️ I’m looking to collaborate on projects friendly to beginning developers
-- 📫 How to reach me on Slack @des
+- 👀 I’m interested in assisting others through web development, wellness, healthy lifestyles and mindsets.
+- 🌱 I’m currently learning html, css, javascript, python, writing self-help stuff and involved in wellness.
+- 💞️ I’m looking to collaborate on projects friendly to beginning developers, or those seeking to find more balance in lives.
+- 📫 
 
 <!---
 des-did/des-did is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Privacy Policy: Underconstruction
+
+***Privacy Policy: All information shared is not sold and strictly confidential.***
